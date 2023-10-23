@@ -1,4 +1,4 @@
-name: timer
+name: helloworld
 description: A new Flutter project.
 
 version: 1.0.0+1
@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  percent_indicator: ^4.0.1
+  shared_preferences: ^2.0.7
 
 dev_dependencies:
   flutter_test:
